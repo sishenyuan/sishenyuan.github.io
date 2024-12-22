@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Sishen's paper "Motor-free telerobotic endomicroscopy for steerable and programmable imaging in complex curved and localized areas" is accepted by Nature Communications. Congrats!
