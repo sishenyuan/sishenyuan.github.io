@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Biography
+title: Homepage
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Department of Electronic Engineering, The Chinese University of Hong Kong
 
