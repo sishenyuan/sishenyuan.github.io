@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Department of Electronic Engineering, Th
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SSY.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 432</p>
