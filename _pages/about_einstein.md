@@ -1,3 +1,8 @@
+Sishen YUAN is a final-year Ph.D. candidate in the Department of Electronic Engineering at The Chinese University of Hong Kong, advised by Prof. [Advisor’s Name]. Concurrently, I am affiliated with the Chair for Surgical Data Science at the University of Strasbourg (UNISTRA), working under the guidance of Prof. [Collaborator’s Name]. Previously, I received my Bachelor’s degree in Biomedical Engineering from Zhejiang University (ZJU) in 2019, where I was fortunate to be advised by Prof. [Advisor’s Name]. During my academic journey, I have had the privilege of collaborating with esteemed researchers including Prof. [Collaborator A], Prof. [Collaborator B], and Dr. [Collaborator C].
+
+My research interests lie at the intersection of artificial intelligence, medical robotics, and surgical data science. Specifically, I am passionate about advancing human-robot collaboration in minimally invasive surgeries, medical image analysis, and real-time decision-making in complex surgical environments. Recently, my work has been focused on multimodal learning for vision-language understanding and robotic skill assessment.
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
