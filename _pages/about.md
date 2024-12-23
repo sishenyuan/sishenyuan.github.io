@@ -2,7 +2,7 @@
 layout: about
 title: Homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Electronic Engineering, The Chinese University of Hong Kong
+subtitle: <a href='https://www.ee.cuhk.edu.hk/en-gb/'>Affiliations</a>. Department of Electronic Engineering, The Chinese University of Hong Kong
 
 profile:
   align: right
