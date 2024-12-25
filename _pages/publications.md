@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "* indicates equal contribution; # indicates the corresponding author. Only selected representative publications are listed here. For the full list, please visit my Google Scholar(https://scholar.google.com/citations?user=oq5omiMAAAAJ&hl=en) page."
+description: "* indicates equal contribution; # indicates the corresponding author. Only selected representative publications are listed here. For the full list, please visit my Google Scholar_(https://scholar.google.com/citations?user=oq5omiMAAAAJ&hl=en) page."
 nav: true
 nav_order: 1
 ---
